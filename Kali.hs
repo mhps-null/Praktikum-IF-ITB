@@ -9,7 +9,7 @@ kali :: Int -> Int -> Int
     -- a dan b integer
 
 -- REALISASI
-kali a b = a * b
+kali a b = b * a
 
 -- APLIKASI
 -- kali 9 8
